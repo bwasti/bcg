@@ -1,0 +1,3 @@
+[submodule "libsysml"]
+	path = libsysml
+	url = https://github.com/facebookresearch/libsysml.git
